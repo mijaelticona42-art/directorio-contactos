@@ -95,3 +95,4 @@ function filtrarContactos() {
 // Event listener obligatorio para la búsqueda en tiempo real
 buscarInput.addEventListener('input', filtrarContactos);
 
+
